@@ -1,0 +1,128 @@
+    /* Client Area */
+
+body {
+position: relative;
+margin: 0px;
+pading: 0px;
+border: none;
+font-family: Arial, Helvetica, sans-serif;
+text-align: left;
+font-size: 16px;
+line-height: normal;
+color: #000000;
+background-color: #404040;
+}
+    /* Centered Page */
+
+.root {
+position: relative;
+width: 640px;
+height: 675px;
+left: 0px;
+top: 10px;
+margin: 0px;
+margin-left: auto;
+margin-right: auto;
+overflow: hidden;
+background: none;
+background-color: #ffffff;
+}
+
+/* ------------------- */
+
+.dv10 {
+position: absolute;
+left: 180px;
+top: 100px;
+width: 460px;
+background-color: #ffffff;
+text-align: left;
+font-size: 38px;
+color: #000000;
+}
+
+
+.dv11 {
+position: absolute;
+left: 180px;
+top: 160px;
+width: 460px;
+background-color: #ffffff;
+text-align: left;
+font-size: 17px;
+color: #000000;
+}
+
+.hr11 {
+position: absolute;
+left: 180px;
+top: 250px;
+width: 380px;
+height: 2px;
+background-color: #000000;
+}
+
+/* ------------------- */
+
+.dv12 {
+position: absolute;
+left: 180px;
+top: 280px;
+width: 460px;
+background-color: #ffffff;
+text-align: left;
+font-size: 24px;
+color: #000000;
+}
+
+.dv13 {
+position: absolute;
+left: 180px;
+top: 310px;
+width: 390px;
+background-color: #ffffff;
+text-align: left;
+font-size: 14px;
+color: #000000;
+}
+
+    /* ----------------- */
+
+.hr13 {
+position: absolute;
+left: 180px;
+bottom: 75px;
+width: 380px;
+height: 2px;
+background-color: #000000;
+}
+
+.dv14 {
+position: absolute;
+left: 180px;
+bottom: 60px;
+background-color: #ffffff;
+text-align: left;
+font-size: 10px;
+color: #000000;
+}
+
+.dv15 {
+position: absolute;
+right: 80px;
+bottom: 60px;
+background-color: #ffffff;
+text-align: right;
+font-size: 10px;
+color: #000000;
+}
+    /* graphic */
+
+.dv20 {
+position: absolute;
+left: 30px;
+top: 20px;
+width: 139px;
+height: 380px;
+}
+
